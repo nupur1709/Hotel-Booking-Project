@@ -1,1 +1,1 @@
-# data_analyst_projects
+# Data_Analyst_Project
